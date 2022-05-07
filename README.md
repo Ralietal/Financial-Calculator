@@ -1,4 +1,4 @@
-# First-Capstone - Financial Calculator
+# Financial Calculator
   This program provides a user with a financial calculators options of investment and bond repayment
   The program does not take into account the capitalisation of inputs letters
   BOND OPTION
